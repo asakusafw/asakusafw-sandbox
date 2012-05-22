@@ -2,7 +2,7 @@ organization := "com.asakusafw"
 
 name := "asakusa-jobqueue-core"
 
-version := "0.2.6-RC1"
+version := "0.2.6-RC2"
 
 resolvers += "Typesafe Repository" at "http://repo.typesafe.com/typesafe/releases/"
 
