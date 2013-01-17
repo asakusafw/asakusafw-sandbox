@@ -8,7 +8,6 @@ Asakusa Framework Sandbox
     windgate/index
     yaess/index
     directio/index
-    administration/index
 
 ToDo
 ====
