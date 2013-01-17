@@ -2,7 +2,7 @@ organization := "com.asakusafw"
 
 name := "asakusa-jobqueue-core"
 
-version := "0.2.6"
+version := "0.2.7"
 
 description := "Asakusa JobQueue Core"
 

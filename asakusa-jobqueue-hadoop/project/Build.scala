@@ -5,7 +5,7 @@ import PlayProject._
 object ApplicationBuild extends Build {
 
   val appName = "asakusa-jobqueue-hadoop"
-  val appVersion = "0.2.6"
+  val appVersion = "0.2.7"
 
   val appDependencies = Seq(
     "com.asakusafw" %% "asakusa-jobqueue-core" % appVersion,
