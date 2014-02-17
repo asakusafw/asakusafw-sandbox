@@ -7,7 +7,7 @@
 	<parent>
 		<artifactId>asakusa-sandbox-parent</artifactId>
 		<groupId>com.asakusafw.sandbox</groupId>
-		<version>0.4-SNAPSHOT</version>
+		<version>0.6-SNAPSHOT</version>
 		<relativePath>../asakusa-sandbox-parent</relativePath>
 	</parent>
 
@@ -43,6 +43,11 @@
 			<version>${asakusafw.version}</version>
 		</dependency>
 		<dependency>
+			<groupId>org.apache.hadoop</groupId>
+			<artifactId>${hadoop.artifact.id}</artifactId>
+			<scope>provided</scope>
+		</dependency>
+		<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-api</artifactId>
 		</dependency>
@@ -63,7 +68,7 @@
 		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
-			<artifactId>junit-dep</artifactId>
+			<artifactId>junit</artifactId>
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
