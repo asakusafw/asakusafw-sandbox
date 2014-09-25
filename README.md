@@ -1,11 +1,5 @@
 # Asakusa Framework Sandbox Modules
-This project includes experimental or unstable features for [Asakusa Framework](https://github.com/asakusafw/asakusafw).
+## **ATTENTION: The project repository has been Moved**
+Sandbox Project repository has been moved to https://github.com/asakusafw/asakusafw (from version 0.7.0).
 
-## How to Build
-```sh
-mvn clean install -DskipTests
-```
-
-## License
-* [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
-
+Sandbox Project documents of latest version: http://asakusafw.s3.amazonaws.com/documents/latest/release/ja/html/sandbox/index.html
